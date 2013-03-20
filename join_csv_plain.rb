@@ -1,4 +1,9 @@
 #!/usr/bin/ruby
+##
+## Copyright (C) 2013 Y.Morikawa <http://moya-notes.blogspot.jp/>
+##
+## License: MIT License  (See LICENSE.md)
+##
 ########################################
 #### Settings
 DELIM=","
